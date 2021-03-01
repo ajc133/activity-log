@@ -32,12 +32,13 @@ li {
 
 ul, button, li {
   width: 100%;
-  line-height: 3;
   padding: 0;
 }
 
 button {
   height: 100%;
+  white-space: normal;
+  word-wrap: break-word;
   font-size: 1.2em;
   background-color:  var(--default-primary-color);
 	-webkit-border-radius: 4px;
