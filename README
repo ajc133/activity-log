@@ -1,0 +1,7 @@
+# Task Log
+
+This site is a simple set of buttons that log what tasks I've done out of a list. 
+
+## Usage:
+Click on each task you've done in a given day. The button will stay pressed until the next day.
+There will also be a log of what you did on past days.

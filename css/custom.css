@@ -1,0 +1,12 @@
+/*
+* CSS written by AJ
+* 2021-03-01
+*/
+
+ul {
+  list-style-type: none;
+}
+
+ul, button {
+  width: 100%;
+}
